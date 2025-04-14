@@ -13,5 +13,5 @@ streamlit run streamlit_app_final.py
 ## Docker Deployment
 ```bash
 docker build -t netflix-app .
-docker run -p 8501:8501 netflix-app
+docker run -p 8502:8501 netflix-app
 ```
